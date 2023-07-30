@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    font-family: comic sans ms;
+}
+.heading{
+    width: 70%;
+
+    font-size: 35px;
+}
+.name_of_objects{
+    font-size: 22px;
+    color: blueviolet;
+}
+label{
+    background-color: rgba(237, 145, 47, 0.849);
+    color: wheat;
+    padding: 10px;
+}
